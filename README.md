@@ -1,6 +1,4 @@
-* Original notebook: [![Open In Colab][colab-badge]][colab-notebook1]
-[colab-notebook1]: <https://colab.research.google.com/github/komorra/ACA/blob/main/komorra_ACA_Augmented_Classifier_Attack.ipynb>
-[colab-badge]: <https://colab.research.google.com/assets/colab-badge.svg>
+* https://colab.research.google.com/github/komorra/ACA/blob/main/komorra_ACA_Augmented_Classifier_Attack.ipynb
 
 # ACA
 Augmented Classifier Attack
