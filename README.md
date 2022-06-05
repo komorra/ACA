@@ -8,3 +8,23 @@ What is ACA?
 * It can help researchers to optimize their image classifiers
 
 It is highly recommended to run this Colab notebook with GPU backend
+
+# Examples
+## OpenAI CLIP example
+Each image was generated for optimizing input image for given prompt embedding vector
+
+Prompt: Beautiful flowers
+
+![Beautiful Flowers](beautiful_flowers.png)
+
+Prompt: Dance party
+
+![Dane party](dance_party.png)
+
+Prompt: Portrait of Mario
+
+![Portrait of Mario](portrait_of_mario.png)
+
+Prompt: Singing person
+
+![Singing person](singing_person.png)
