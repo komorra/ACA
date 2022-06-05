@@ -10,7 +10,7 @@ What is ACA?
 It is highly recommended to run this Colab notebook with GPU backend
 
 # Examples
-## OpenAI CLIP example
+## Example using OpenAI CLIP model
 Each image was generated for optimizing input image for given prompt embedding vector
 
 Prompt: Beautiful flowers
